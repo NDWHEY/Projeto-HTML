@@ -1,0 +1,11 @@
+main{
+    background-color: yellow;
+    width: 400px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
